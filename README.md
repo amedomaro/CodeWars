@@ -4,5 +4,3 @@ Overview
 
 Here is a collection of Java solutions for Codewars challenges grouped by a kyū rank. Each solved kata is placed in a separate folder named by its slug and contains a task description, a solution source code, and verification tests. All solutions were solved on the official website and are verified against their original tests every day by Travis CI automation. Pay attention: most solutions are written using Java 11 language features which could be incompatible with Java 8 kata versions.
 
-New solutions keep adding every day. Hit the watch button to stay tuned!
-If you find the repo helpful, please give it a thank with a star ⭐
