@@ -1,4 +1,4 @@
-package kata.kyu6.SumOfDigits;
+package kata.kyu6.sumOfDigits;
 
 public class Main {
     public static void main(String[] args) {
