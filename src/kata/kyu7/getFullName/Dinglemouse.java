@@ -6,12 +6,12 @@ public class Dinglemouse {
     private String lastName;
 
     public Dinglemouse(String firstName, String lastName) {
-        firstName = firstName;
-        lastName = lastName;
+        this.firstName = firstName;
+        this.lastName = lastName;
     }
 
     public String getFullName() {
-        return firstName + " " + lastName;
+        return String.format("%s %s", firstName, lastName).trim();
     }
 
 }
