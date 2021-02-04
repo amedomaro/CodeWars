@@ -1,11 +1,11 @@
-#Alphabet war
-###Introduction
+# Alphabet war
+### Introduction
 
 There is a war and nobody knows - the alphabet war!
 There are two groups of hostile letters. The tension between left side letters 
 and right side letters was too high and the war began.
 
-###Task
+### Task
 
 Write a function that accepts `fight` string consists of only small letters and 
 return who wins the fight. When the left side wins return `Left side wins!`, 
@@ -28,7 +28,7 @@ z - 1
 ~~~
 The other letters don't have power and are only victims.
 
-###Example
+### Example
 ~~~
 AlphabetWar("z");        //=> Right side wins!
 AlphabetWar("zdqmwpbs"); //=> Let's fight again!
