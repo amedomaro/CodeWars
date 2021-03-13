@@ -1,6 +1,6 @@
-#Letterbox Paint-Squad
+# Letterbox Paint-Squad
 
-###Story
+### Story
 
 You and a group of friends are earning some extra money in the school 
 holidays by re-painting the numbers on people's letterboxes for a small fee.
@@ -11,12 +11,12 @@ But at the end of the day you realise not everybody did the same amount of work.
 To avoid any fights you need to distribute the money fairly. That's where this 
 Kata comes in.
 
-###Kata Task
+### Kata Task
 
 Given the `start` and `end` letterbox numbers, write a method to return the 
 frequency of all 10 digits painted.
 
-###Example
+### Example
 
 For `start` = 125, and `end` = 132
 
@@ -35,7 +35,7 @@ The digit frequencies are 1 x 0, 9 x 1, 6 x 2 etc...
 
 and so the method would return `[1,9,6,3,0,1,1,1,1,1]`
 
-###Notes
+### Notes
 
     0 < start <= end
     In C, the returned value will be free'd.

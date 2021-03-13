@@ -1,4 +1,4 @@
-#Numericals of a String
+# Numericals of a String
 
 You are given an input string.
 

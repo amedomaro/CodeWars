@@ -1,4 +1,4 @@
-#STRONGN Strong Number (Special Numbers Series #2) 
+# STRONGN Strong Number (Special Numbers Series #2) 
 Definition
 
 Strong number is the number that the sum of the factorial of its digits is equal to number itself.
